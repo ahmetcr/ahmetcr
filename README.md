@@ -1,4 +1,4 @@
-<a href="https://github.com/pragmataW"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Ahmet's+github;Frontend Developer" alt="Typing SVG" /></a>
+<a href="https://github.com/ahmetcr"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Ahmet's+github;Frontend Developer" alt="Typing SVG" /></a>
 
 - 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
 - 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
