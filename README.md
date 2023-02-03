@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=22A4F7&width=435&lines=%3C.+.+.%3E++%3C%2F.+.+.%3E)](https://git.io/typing-svg)
+<a href="https://github.com/ahmetcr"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=cdcdb4&width=435&lines=%3C+.+.+.+%3E++++%3C%2F.+.+.+%3E" alt="Typing SVG" /></a>
 
 <h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px> Ahmet Çur <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></h1>
 
