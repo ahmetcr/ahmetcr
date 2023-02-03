@@ -1,6 +1,4 @@
-<p align="center">
-  [Typing SVG]<h3 align="center">(https://readme-typing-svg.demolab.com?font=+Code&duration=1&pause=1000000000000000000&color=FF112B&width=435&lines=Ahmet+%C3%87ur)(https://git.io/typing-svg)</h3>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=9000000000&color=F70000&center=true&vCenter=true&width=435&lines=Ahmet+%C3%87ur)](https://git.io/typing-svg)
 
 - You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
 
