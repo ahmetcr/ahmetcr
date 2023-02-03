@@ -1,4 +1,3 @@
-@@ -4,31 +4,15 @@
 - 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
 - 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
 
