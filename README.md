@@ -1,6 +1,6 @@
 <p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=277CF7&center=true&width=435&lines=Welcome+to+Ahmet's+github;Frontend+Developer)](https://git.io/typing-svg)
-</p align="center">
+
 
 - 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
 - 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
