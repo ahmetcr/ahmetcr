@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋 , I'm Ahmet Çur 💻</h1>
+
+
 - 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
 - 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
 
