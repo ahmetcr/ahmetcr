@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+Ahmet's+Github;Frontend+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi Ahmet Çur</h1>
-- 📫 How to reach me **ahmetcur88@gmail.com**
+- 📫 How to reach me [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
