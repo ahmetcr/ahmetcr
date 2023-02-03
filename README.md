@@ -1,8 +1,8 @@
-<p align=center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Code&duration=1&pause=1000000000000000000&color=FF112B&width=435&lines=Ahmet+%C3%87ur)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Ahmet's+Github)](https://git.io/typing-svg)
+<p align="center">
+  <h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Code&duration=1&pause=1000000000000000000&color=FF112B&width=435&lines=Ahmet+%C3%87ur)](https://git.io/typing-svg)</h3>
 </p>
-- 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
+
+- You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
