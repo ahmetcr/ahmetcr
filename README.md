@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=900000000000000000000&center=true&vCenter=true&repeat=false&width=435&lines=Ahmet+%C3%87ur)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+Ahmet's+Github;Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=22A4F7&width=435&lines=%3C.+.+.%3E++%3C%2F.+.+.%3E)](https://git.io/typing-svg)
 
-<h1 align="center">Hi Ahmet Çur</h1>
-
+<h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px> Ahmet Çur <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></h1>
 
 
 <h3 align="left">Connect with me:</h3>
