@@ -1,12 +1,9 @@
-<p align="center">
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=+Code&duration=1&pause=1000000000000000000&color=2AFF28&width=435&lines=Ahmet+%C3%87ur)](https://git.io/typing-svg)
-</p>
-
 
 
 
 - 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
-- 
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/_ahmetcur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ahmetcur" height="30" width="40" /></a>
