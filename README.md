@@ -1,6 +1,4 @@
-<h2><a href="https://github.com/ahmetcr"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Ahmet's+github;Frontend Developer" alt="Typing SVG" /></a></h2>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&width=435&lines=Welcome+to+Ahmet's+github;Frontend+Developer)](https://git.io/typing-svg)
 
 - 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
 - 💌 You can reach me on [ahmetcur88@gmail.com](mailto:ahmetcur88@gmail.com)
