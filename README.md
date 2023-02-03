@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 ,https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif I'm Ahmet Çur</h1>
+<h1 align="center">Hi 👋 ,I'm Ahmet Çur</h1>
 
 
 - 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
