@@ -1,4 +1,4 @@
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=cdcdb4&width=435&lines=%3C+.+.+.+%3E++++++%3C%2F.+.+.+%3E" alt="Typing SVG" /></a>
+<a href=""><img src="" alt="Typing SVG" /></a>
 
 <h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px> Ahmet Çur <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></h1>
 
