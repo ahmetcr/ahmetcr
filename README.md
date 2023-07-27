@@ -1,4 +1,3 @@
-<h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px> Ahmet Çur <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></h1>
 
 
 <h3 align="left">Connect with me:</h3>
