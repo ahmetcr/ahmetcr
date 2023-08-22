@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=A8A08F&center=true&vCenter=true&width=435&lines=          MySoftareMan+%3CAhmet%3E" alt="Typing SVG" /></a>
-
+ <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=A8A08F&center=true&vCenter=true&width=435&lines=MySoftareMan+%3CAhmet%3E" alt="Typing SVG" /></a></h3>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmetcur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetcur" height="30" width="40" /></a>
