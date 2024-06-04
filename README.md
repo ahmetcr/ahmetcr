@@ -1,6 +1,5 @@
  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=A8A08F&center=true&vCenter=true&width=435&lines=MySoftwareMan+%3CAhmet%3E" alt="Typing SVG" /></a></h3>
  
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
